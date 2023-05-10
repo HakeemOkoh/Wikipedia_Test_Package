@@ -1,0 +1,88 @@
+ # Locator values (Web Elements) on landing page
+
+    _english = {"locatorValue": "js-link-box-en", "locatorType": "id"}
+    _japanese = {"locatorValue": "js-link-box-ja", "locatorType": "id"}
+    _spanish = {"locatorValue": "js-link-box-es", "locatorType": "id"}
+    _italian = {"locatorValue": "js-link-box-it", "locatorType": "id"}
+    _farsi = {"locatorValue": "js-link-box-fa", "locatorType": "id"}
+    _russian = {"locatorValue": "js-link-box-ru", "locatorType": "id"}
+    _german = {"locatorValue": "js-link-box-de", "locatorType": "id"}
+    _french = {"locatorValue": "js-link-box-fr", "locatorType": "id"}
+    _chinese = {"locatorValue": "js-link-box-zh", "locatorType": "id"}
+    _portuguese = {"locatorValue": "js-link-box-pt", "locatorType": "id"}
+    _searchInputBar = {"locatorValue": "searchInput", "locatorType": "id"}
+    _languageDropDown = {"locatorValue": "searchLanguage", "locatorType": "id"}
+    _searchButton = {"locatorValue": "#search-form > fieldset > button", "locatorType": "css"}
+    _listLanguages = {"locatorValue": "js-lang-list-button", "locatorType": "id"}
+    _donate = {"locatorValue": "#www-wikipedia-org > div.footer > div:nth-child(1) > div > div:nth-child(3) > a",
+               "locatorType": "css"}
+    _commons = {"locatorValue": "#www-wikipedia-org > div.footer > div.other-projects > div:nth-child(1) > a",
+                "locatorType": "css"}
+    _wikivoyage = {"locatorValue": "#www-wikipedia-org > div.footer > div.other-projects > div:nth-child(2) > a",
+                   "locatorType": "css"}
+    _wiktionary = {"locatorValue": "#www-wikipedia-org > div.footer > div.other-projects > div:nth-child(3) > a",
+                   "locatorType": "css"}
+    _wikibooks = {"locatorValue": "#www-wikipedia-org > div.footer > div.other-projects > div:nth-child(4) > a",
+                  "locatorType": "css"}
+    _wikinews = {"locatorValue": "#www-wikipedia-org > div.footer > div.other-projects > div:nth-child(5) > a",
+                 "locatorType": "css"}
+    _wikidata = {"locatorValue": "#www-wikipedia-org > div.footer > div.other-projects > div:nth-child(6) > a",
+                 "locatorType": "css"}
+    _wikiversity = {"locatorValue": "#www-wikipedia-org > div.footer > div.other-projects > div:nth-child(7) > a",
+                    "locatorType": "css"}
+    _wikiqoute = {"locatorValue": "#www-wikipedia-org > div.footer > div.other-projects > div:nth-child(8) > a",
+                  "locatorType": "css"}
+    _mediaWiki = {"locatorValue": "#www-wikipedia-org > div.footer > div.other-projects > div:nth-child(9) > a",
+                  "locatorType": "css"}
+    _wikisource = {"locatorValue": "#www-wikipedia-org > div.footer > div.other-projects > div:nth-child(10) > a",
+                   "locatorType": "css"}
+    _wikispecies = {"locatorValue": "#www-wikipedia-org > div.footer > div.other-projects > div:nth-child(11) > a",
+                    "locatorType": "css"}
+    _metaWiki = {"locatorValue": "#www-wikipedia-org > div.footer > div.other-projects > div:nth-child(12) > a",
+                 "locatorType": "css"}
+    _wikiAppLinks = {"locatorValue": "#www-wikipedia-org > div.footer > div.footer-sidebar.app-badges"
+                                     " > div > div > strong > a", "locatorType": "css"}
+    _playStore = {"locatorValue": "#www-wikipedia-org > div.footer > div.footer-sidebar.app-badges > "
+                                  "div > div > ul > li.app-badge.app-badge-android > a > span", "locatorType": "css"}
+    _appleStore = {"locatorValue": "#www-wikipedia-org > div.footer > div.footer-sidebar.app-badges > "
+                                   "div > div > ul > li.app-badge.app-badge-ios > a > span", "locatorType": "css"}
+    _license = {"locatorValue": "#www-wikipedia-org > p > small:nth-child(1) > a", "locatorType": "css"}
+    _terms = {"locatorValue": "#www-wikipedia-org > p > small:nth-child(2) > a", "locatorType": "css"}
+    _privacyPolicy = {"locatorValue": "#www-wikipedia-org > p > small:nth-child(3) > a", "locatorType": "css"}
+
+
+elements = {
+        "_english": _english,
+        "_japanese": _japanese,
+        "_spanish": _spanish,
+        "_italian": _italian,
+        "_farsi": _farsi,
+        "_russian": _russian,
+        "_german": _german,
+        "_french": _french,
+        "_chinese": _chinese,
+        "_portuguese": _portuguese,
+        "_searchInputBar": _searchInputBar,
+        "_languageDropDown": _languageDropDown,
+        "_searchButton": _searchButton,
+        "_listLanguages": _listLanguages,
+        "_donate": _donate,
+        "_commons": _commons,
+        "_wikivoyage": _wikivoyage,
+        "_wiktionary": _wiktionary,
+        "_wikibooks": _wikibooks,
+        "_wikinews": _wikinews,
+        "_wikidata": _wikidata,
+        "_wikiversity": _wikiversity,
+        "_wikiqoute": _wikiqoute,
+        "_mediaWiki": _mediaWiki,
+        "_wikisource": _wikisource,
+        "_wikispecies": _wikispecies,
+        "_metaWiki": _metaWiki,
+        "_wikiAppLinks": _wikiAppLinks,
+        "_playStore": _playStore,
+        "_appleStore": _appleStore,
+        "_license": _license,
+        "_terms": _terms,
+        "_privacyPolicy": _privacyPolicy
+    }

@@ -1,0 +1,9 @@
+10/05/23 10:31:37 AM Wednesday - WebDriverClass - INFO : Chrome Driver is initializing
+10/05/23 10:31:53 AM Wednesday - BaseClass - INFO : Web Page Launched with URL : https://www.wikipedia.org/
+10/05/23 10:31:53 AM Wednesday - BaseClass - INFO : WebElement found with locator value #www-wikipedia-org > div.footer > div:nth-child(1) > div > div:nth-child(3) > a using locatorType css
+10/05/23 10:31:54 AM Wednesday - BaseClass - INFO : Scrolled to WebElement with locator value #www-wikipedia-org > div.footer > div:nth-child(1) > div > div:nth-child(3) > a using locatorType css
+10/05/23 10:31:54 AM Wednesday - BaseClass - INFO : WebElement found with locator value #www-wikipedia-org > div.footer > div:nth-child(1) > div > div:nth-child(3) > a using locatorType css
+10/05/23 10:31:56 AM Wednesday - BaseClass - INFO : WebElement is Displayed on web page with locator value #www-wikipedia-org > div.footer > div:nth-child(1) > div > div:nth-child(3) > a using locatorType css
+10/05/23 10:31:56 AM Wednesday - BaseClass - INFO : WebElement found with locator value #www-wikipedia-org > div.footer > div:nth-child(1) > div > div:nth-child(3) > a using locatorType css
+10/05/23 10:31:57 AM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value #www-wikipedia-org > div.footer > div:nth-child(1) > div > div:nth-child(3) > a using locatorType css
+10/05/23 10:32:00 AM Wednesday - BaseClass - INFO : New window was closed, now back to original window
