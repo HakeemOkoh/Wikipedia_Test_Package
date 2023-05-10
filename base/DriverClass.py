@@ -11,15 +11,15 @@ class WebDriverClass:
     def getWebDriver(self, browserName):
         driver = None
         if browserName == "chrome":
-            driver = webdriver.Chrome("C:/Users/HAKEEM/Documents/PYTHON/Exe/chromedriver/chromedriver.exe")
+            driver = webdriver.Chrome("../configurationfiles/BrowserDrivers/chromedriver.exe")
             self.log.info("Chrome Driver is initializing")
         elif browserName == "edge":
-            driver = webdriver.Edge("C:/Users/HAKEEM/Documents/PYTHON/Exe/edgedriver/msedgedriver.exe")
+            driver = webdriver.Edge("../configurationfiles/BrowserDrivers/msedgedriver.exe")
             self.log.info("Edge Driver is initializing")
         elif browserName == "firefox":
             options = FirefoxOptions()
             options.headless = False
-            service = Service("C:/Users/HAKEEM/Documents/PYTHON/Exe/Firefoxdriver/geckodriver.exe")
+            service = Service("../configurationfiles/BrowserDrivers/geckodriver.exe")
             driver = Firefox(service=service, options=options)
             self.log.info("FireFox Driver is initializing")
 

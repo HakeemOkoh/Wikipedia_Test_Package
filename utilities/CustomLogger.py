@@ -10,7 +10,7 @@ def customLogger():
 
     logger.setLevel(logging.DEBUG)
 
-    fileHandler = logging.FileHandler("../reports/Wikipedia.log", mode='a')
+    fileHandler = logging.FileHandler("../WIKIPEDIA/WIKIFramework/reports/Wikipedia.log", mode='a')
 
     fileHandler.setLevel(logging.DEBUG)
 
@@ -26,4 +26,4 @@ def customLogger():
 
 def allureLogs(text):
     with allure.step(text):
-        return
+        pass

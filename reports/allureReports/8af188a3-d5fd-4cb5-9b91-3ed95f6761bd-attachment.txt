@@ -1,0 +1,176 @@
+[32mINFO    [0m WebDriverClass:DriverClass.py:15 Chrome Driver is initializing
+[32mINFO    [0m BaseClass:BasePage.py:23 Web Page Launched with URL : https://www.wikipedia.org/
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value js-link-box-en using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:133 WebElement is Displayed on web page with locator value js-link-box-en using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value js-link-box-en using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:86 Clicked on WebElement with locator value js-link-box-en using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value js-link-box-ja using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:133 WebElement is Displayed on web page with locator value js-link-box-ja using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value js-link-box-ja using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:86 Clicked on WebElement with locator value js-link-box-ja using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value js-link-box-es using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:133 WebElement is Displayed on web page with locator value js-link-box-es using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value js-link-box-es using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:86 Clicked on WebElement with locator value js-link-box-es using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value js-link-box-it using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:133 WebElement is Displayed on web page with locator value js-link-box-it using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value js-link-box-it using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:86 Clicked on WebElement with locator value js-link-box-it using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value js-link-box-fa using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:133 WebElement is Displayed on web page with locator value js-link-box-fa using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value js-link-box-fa using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:86 Clicked on WebElement with locator value js-link-box-fa using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value js-link-box-ru using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:133 WebElement is Displayed on web page with locator value js-link-box-ru using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value js-link-box-ru using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:86 Clicked on WebElement with locator value js-link-box-ru using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value js-link-box-de using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:133 WebElement is Displayed on web page with locator value js-link-box-de using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value js-link-box-de using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:86 Clicked on WebElement with locator value js-link-box-de using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value js-link-box-fr using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:133 WebElement is Displayed on web page with locator value js-link-box-fr using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value js-link-box-fr using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:86 Clicked on WebElement with locator value js-link-box-fr using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value js-link-box-zh using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:133 WebElement is Displayed on web page with locator value js-link-box-zh using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value js-link-box-zh using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:86 Clicked on WebElement with locator value js-link-box-zh using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value js-link-box-pt using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:133 WebElement is Displayed on web page with locator value js-link-box-pt using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value js-link-box-pt using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:86 Clicked on WebElement with locator value js-link-box-pt using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value searchInput using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:133 WebElement is Displayed on web page with locator value searchInput using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value searchInput using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:163 Sent the text Mutagenesis in WebElement with locator value searchInput using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:56 WebElement found with locator value searchInput using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value searchLanguage using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:86 Clicked on WebElement with locator value searchLanguage using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value searchLanguage using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:86 Clicked on WebElement with locator value searchLanguage using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value #search-form > fieldset > button using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:86 Clicked on WebElement with locator value #search-form > fieldset > button using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value js-lang-list-button using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:133 WebElement is Displayed on web page with locator value js-lang-list-button using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value js-lang-list-button using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:86 Clicked on WebElement with locator value js-lang-list-button using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value js-lang-list-button using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:86 Clicked on WebElement with locator value js-lang-list-button using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value #www-wikipedia-org > div.footer > div:nth-child(1) > div > div:nth-child(3) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:149 Scrolled to WebElement with locator value #www-wikipedia-org > div.footer > div:nth-child(1) > div > div:nth-child(3) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value #www-wikipedia-org > div.footer > div:nth-child(1) > div > div:nth-child(3) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:133 WebElement is Displayed on web page with locator value #www-wikipedia-org > div.footer > div:nth-child(1) > div > div:nth-child(3) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value #www-wikipedia-org > div.footer > div:nth-child(1) > div > div:nth-child(3) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:86 Clicked on WebElement with locator value #www-wikipedia-org > div.footer > div:nth-child(1) > div > div:nth-child(3) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:181 New window was closed, now back to original window
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(1) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:149 Scrolled to WebElement with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(1) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(1) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:133 WebElement is Displayed on web page with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(1) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(1) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:86 Clicked on WebElement with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(1) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(2) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:149 Scrolled to WebElement with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(2) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(2) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:133 WebElement is Displayed on web page with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(2) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(2) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:86 Clicked on WebElement with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(2) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(3) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:149 Scrolled to WebElement with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(3) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(3) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:133 WebElement is Displayed on web page with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(3) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(3) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:86 Clicked on WebElement with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(3) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(4) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:149 Scrolled to WebElement with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(4) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(4) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:133 WebElement is Displayed on web page with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(4) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(4) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:86 Clicked on WebElement with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(4) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(5) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:149 Scrolled to WebElement with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(5) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(5) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:133 WebElement is Displayed on web page with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(5) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(5) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:86 Clicked on WebElement with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(5) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(6) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:149 Scrolled to WebElement with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(6) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(6) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:133 WebElement is Displayed on web page with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(6) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(6) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:86 Clicked on WebElement with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(6) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(7) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:149 Scrolled to WebElement with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(7) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(7) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:133 WebElement is Displayed on web page with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(7) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(7) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:86 Clicked on WebElement with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(7) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(8) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:149 Scrolled to WebElement with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(8) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(8) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:133 WebElement is Displayed on web page with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(8) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(8) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:86 Clicked on WebElement with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(8) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(9) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:149 Scrolled to WebElement with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(9) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(9) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:133 WebElement is Displayed on web page with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(9) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(9) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:86 Clicked on WebElement with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(9) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(10) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:149 Scrolled to WebElement with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(10) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(10) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:133 WebElement is Displayed on web page with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(10) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(10) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:86 Clicked on WebElement with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(10) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(11) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:149 Scrolled to WebElement with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(11) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(11) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:133 WebElement is Displayed on web page with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(11) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(11) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:86 Clicked on WebElement with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(11) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(12) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:149 Scrolled to WebElement with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(12) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(12) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:133 WebElement is Displayed on web page with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(12) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(12) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:86 Clicked on WebElement with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(12) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value #www-wikipedia-org > div.footer > div.footer-sidebar.app-badges > div > div > strong > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:149 Scrolled to WebElement with locator value #www-wikipedia-org > div.footer > div.footer-sidebar.app-badges > div > div > strong > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value #www-wikipedia-org > div.footer > div.footer-sidebar.app-badges > div > div > strong > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:133 WebElement is Displayed on web page with locator value #www-wikipedia-org > div.footer > div.footer-sidebar.app-badges > div > div > strong > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value #www-wikipedia-org > div.footer > div.footer-sidebar.app-badges > div > div > strong > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:86 Clicked on WebElement with locator value #www-wikipedia-org > div.footer > div.footer-sidebar.app-badges > div > div > strong > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value #www-wikipedia-org > div.footer > div.footer-sidebar.app-badges > div > div > ul > li.app-badge.app-badge-android > a > span using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:149 Scrolled to WebElement with locator value #www-wikipedia-org > div.footer > div.footer-sidebar.app-badges > div > div > ul > li.app-badge.app-badge-android > a > span using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value #www-wikipedia-org > div.footer > div.footer-sidebar.app-badges > div > div > ul > li.app-badge.app-badge-android > a > span using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:133 WebElement is Displayed on web page with locator value #www-wikipedia-org > div.footer > div.footer-sidebar.app-badges > div > div > ul > li.app-badge.app-badge-android > a > span using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value #www-wikipedia-org > div.footer > div.footer-sidebar.app-badges > div > div > ul > li.app-badge.app-badge-android > a > span using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:86 Clicked on WebElement with locator value #www-wikipedia-org > div.footer > div.footer-sidebar.app-badges > div > div > ul > li.app-badge.app-badge-android > a > span using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:181 New window was closed, now back to original window
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value #www-wikipedia-org > div.footer > div.footer-sidebar.app-badges > div > div > ul > li.app-badge.app-badge-ios > a > span using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:149 Scrolled to WebElement with locator value #www-wikipedia-org > div.footer > div.footer-sidebar.app-badges > div > div > ul > li.app-badge.app-badge-ios > a > span using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value #www-wikipedia-org > div.footer > div.footer-sidebar.app-badges > div > div > ul > li.app-badge.app-badge-ios > a > span using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:133 WebElement is Displayed on web page with locator value #www-wikipedia-org > div.footer > div.footer-sidebar.app-badges > div > div > ul > li.app-badge.app-badge-ios > a > span using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value #www-wikipedia-org > div.footer > div.footer-sidebar.app-badges > div > div > ul > li.app-badge.app-badge-ios > a > span using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:86 Clicked on WebElement with locator value #www-wikipedia-org > div.footer > div.footer-sidebar.app-badges > div > div > ul > li.app-badge.app-badge-ios > a > span using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:181 New window was closed, now back to original window
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value #www-wikipedia-org > p > small:nth-child(1) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:149 Scrolled to WebElement with locator value #www-wikipedia-org > p > small:nth-child(1) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value #www-wikipedia-org > p > small:nth-child(1) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:133 WebElement is Displayed on web page with locator value #www-wikipedia-org > p > small:nth-child(1) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value #www-wikipedia-org > p > small:nth-child(1) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:86 Clicked on WebElement with locator value #www-wikipedia-org > p > small:nth-child(1) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value #www-wikipedia-org > p > small:nth-child(2) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:149 Scrolled to WebElement with locator value #www-wikipedia-org > p > small:nth-child(2) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value #www-wikipedia-org > p > small:nth-child(2) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:133 WebElement is Displayed on web page with locator value #www-wikipedia-org > p > small:nth-child(2) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value #www-wikipedia-org > p > small:nth-child(2) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:86 Clicked on WebElement with locator value #www-wikipedia-org > p > small:nth-child(2) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value #www-wikipedia-org > p > small:nth-child(3) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:149 Scrolled to WebElement with locator value #www-wikipedia-org > p > small:nth-child(3) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value #www-wikipedia-org > p > small:nth-child(3) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:133 WebElement is Displayed on web page with locator value #www-wikipedia-org > p > small:nth-child(3) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value #www-wikipedia-org > p > small:nth-child(3) > a using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:86 Clicked on WebElement with locator value #www-wikipedia-org > p > small:nth-child(3) > a using locatorType css

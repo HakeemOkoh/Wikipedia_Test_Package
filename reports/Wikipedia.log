@@ -1,9 +1,185 @@
-10/05/23 10:31:37 AM Wednesday - WebDriverClass - INFO : Chrome Driver is initializing
-10/05/23 10:31:53 AM Wednesday - BaseClass - INFO : Web Page Launched with URL : https://www.wikipedia.org/
-10/05/23 10:31:53 AM Wednesday - BaseClass - INFO : WebElement found with locator value #www-wikipedia-org > div.footer > div:nth-child(1) > div > div:nth-child(3) > a using locatorType css
-10/05/23 10:31:54 AM Wednesday - BaseClass - INFO : Scrolled to WebElement with locator value #www-wikipedia-org > div.footer > div:nth-child(1) > div > div:nth-child(3) > a using locatorType css
-10/05/23 10:31:54 AM Wednesday - BaseClass - INFO : WebElement found with locator value #www-wikipedia-org > div.footer > div:nth-child(1) > div > div:nth-child(3) > a using locatorType css
-10/05/23 10:31:56 AM Wednesday - BaseClass - INFO : WebElement is Displayed on web page with locator value #www-wikipedia-org > div.footer > div:nth-child(1) > div > div:nth-child(3) > a using locatorType css
-10/05/23 10:31:56 AM Wednesday - BaseClass - INFO : WebElement found with locator value #www-wikipedia-org > div.footer > div:nth-child(1) > div > div:nth-child(3) > a using locatorType css
-10/05/23 10:31:57 AM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value #www-wikipedia-org > div.footer > div:nth-child(1) > div > div:nth-child(3) > a using locatorType css
-10/05/23 10:32:00 AM Wednesday - BaseClass - INFO : New window was closed, now back to original window
+10/05/23 01:27:02 PM Wednesday - WebDriverClass - INFO : Chrome Driver is initializing
+10/05/23 01:27:14 PM Wednesday - BaseClass - INFO : Web Page Launched with URL : https://www.wikipedia.org/
+10/05/23 01:27:14 PM Wednesday - BaseClass - INFO : WebElement found with locator value #www-wikipedia-org > div.footer > div:nth-child(1) > div > div:nth-child(3) > a using locatorType css
+10/05/23 01:27:14 PM Wednesday - BaseClass - INFO : Scrolled to WebElement with locator value #www-wikipedia-org > div.footer > div:nth-child(1) > div > div:nth-child(3) > a using locatorType css
+10/05/23 01:27:14 PM Wednesday - BaseClass - INFO : WebElement found with locator value #www-wikipedia-org > div.footer > div:nth-child(1) > div > div:nth-child(3) > a using locatorType css
+10/05/23 01:27:14 PM Wednesday - BaseClass - INFO : WebElement is Displayed on web page with locator value #www-wikipedia-org > div.footer > div:nth-child(1) > div > div:nth-child(3) > a using locatorType css
+10/05/23 01:27:14 PM Wednesday - BaseClass - INFO : WebElement found with locator value #www-wikipedia-org > div.footer > div:nth-child(1) > div > div:nth-child(3) > a using locatorType css
+10/05/23 01:27:14 PM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value #www-wikipedia-org > div.footer > div:nth-child(1) > div > div:nth-child(3) > a using locatorType css
+10/05/23 01:27:18 PM Wednesday - BaseClass - INFO : New window was closed, now back to original window
+10/05/23 09:15:59 PM Wednesday - WebDriverClass - INFO : Chrome Driver is initializing
+10/05/23 09:16:15 PM Wednesday - BaseClass - INFO : Web Page Launched with URL : https://www.wikipedia.org/
+10/05/23 09:16:21 PM Wednesday - BaseClass - INFO : WebElement found with locator value js-link-box-en using locatorType id
+10/05/23 09:16:21 PM Wednesday - BaseClass - INFO : WebElement is Displayed on web page with locator value js-link-box-en using locatorType id
+10/05/23 09:16:21 PM Wednesday - BaseClass - INFO : WebElement found with locator value js-link-box-en using locatorType id
+10/05/23 09:16:24 PM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value js-link-box-en using locatorType id
+10/05/23 09:16:24 PM Wednesday - BaseClass - INFO : WebElement found with locator value js-link-box-ja using locatorType id
+10/05/23 09:16:24 PM Wednesday - BaseClass - INFO : WebElement is Displayed on web page with locator value js-link-box-ja using locatorType id
+10/05/23 09:16:24 PM Wednesday - BaseClass - INFO : WebElement found with locator value js-link-box-ja using locatorType id
+10/05/23 09:16:28 PM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value js-link-box-ja using locatorType id
+10/05/23 09:16:28 PM Wednesday - BaseClass - INFO : WebElement found with locator value js-link-box-es using locatorType id
+10/05/23 09:16:28 PM Wednesday - BaseClass - INFO : WebElement is Displayed on web page with locator value js-link-box-es using locatorType id
+10/05/23 09:16:28 PM Wednesday - BaseClass - INFO : WebElement found with locator value js-link-box-es using locatorType id
+10/05/23 09:16:35 PM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value js-link-box-es using locatorType id
+10/05/23 09:16:35 PM Wednesday - BaseClass - INFO : WebElement found with locator value js-link-box-it using locatorType id
+10/05/23 09:16:35 PM Wednesday - BaseClass - INFO : WebElement is Displayed on web page with locator value js-link-box-it using locatorType id
+10/05/23 09:16:35 PM Wednesday - BaseClass - INFO : WebElement found with locator value js-link-box-it using locatorType id
+10/05/23 09:16:41 PM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value js-link-box-it using locatorType id
+10/05/23 09:16:41 PM Wednesday - BaseClass - INFO : WebElement found with locator value js-link-box-fa using locatorType id
+10/05/23 09:16:41 PM Wednesday - BaseClass - INFO : WebElement is Displayed on web page with locator value js-link-box-fa using locatorType id
+10/05/23 09:16:41 PM Wednesday - BaseClass - INFO : WebElement found with locator value js-link-box-fa using locatorType id
+10/05/23 09:16:43 PM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value js-link-box-fa using locatorType id
+10/05/23 09:16:43 PM Wednesday - BaseClass - INFO : WebElement found with locator value js-link-box-ru using locatorType id
+10/05/23 09:16:43 PM Wednesday - BaseClass - INFO : WebElement is Displayed on web page with locator value js-link-box-ru using locatorType id
+10/05/23 09:16:43 PM Wednesday - BaseClass - INFO : WebElement found with locator value js-link-box-ru using locatorType id
+10/05/23 09:16:46 PM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value js-link-box-ru using locatorType id
+10/05/23 09:16:46 PM Wednesday - BaseClass - INFO : WebElement found with locator value js-link-box-de using locatorType id
+10/05/23 09:16:46 PM Wednesday - BaseClass - INFO : WebElement is Displayed on web page with locator value js-link-box-de using locatorType id
+10/05/23 09:16:46 PM Wednesday - BaseClass - INFO : WebElement found with locator value js-link-box-de using locatorType id
+10/05/23 09:16:51 PM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value js-link-box-de using locatorType id
+10/05/23 09:16:51 PM Wednesday - BaseClass - INFO : WebElement found with locator value js-link-box-fr using locatorType id
+10/05/23 09:16:51 PM Wednesday - BaseClass - INFO : WebElement is Displayed on web page with locator value js-link-box-fr using locatorType id
+10/05/23 09:16:51 PM Wednesday - BaseClass - INFO : WebElement found with locator value js-link-box-fr using locatorType id
+10/05/23 09:17:08 PM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value js-link-box-fr using locatorType id
+10/05/23 09:17:08 PM Wednesday - BaseClass - INFO : WebElement found with locator value js-link-box-zh using locatorType id
+10/05/23 09:17:08 PM Wednesday - BaseClass - INFO : WebElement is Displayed on web page with locator value js-link-box-zh using locatorType id
+10/05/23 09:17:08 PM Wednesday - BaseClass - INFO : WebElement found with locator value js-link-box-zh using locatorType id
+10/05/23 09:17:53 PM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value js-link-box-zh using locatorType id
+10/05/23 09:17:54 PM Wednesday - BaseClass - INFO : WebElement found with locator value js-link-box-pt using locatorType id
+10/05/23 09:17:54 PM Wednesday - BaseClass - INFO : WebElement is Displayed on web page with locator value js-link-box-pt using locatorType id
+10/05/23 09:17:54 PM Wednesday - BaseClass - INFO : WebElement found with locator value js-link-box-pt using locatorType id
+10/05/23 09:18:22 PM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value js-link-box-pt using locatorType id
+10/05/23 09:18:22 PM Wednesday - BaseClass - INFO : WebElement found with locator value searchInput using locatorType id
+10/05/23 09:18:22 PM Wednesday - BaseClass - INFO : WebElement is Displayed on web page with locator value searchInput using locatorType id
+10/05/23 09:18:22 PM Wednesday - BaseClass - INFO : WebElement found with locator value searchInput using locatorType id
+10/05/23 09:18:47 PM Wednesday - BaseClass - INFO : Sent the text Mutagenesis in WebElement with locator value searchInput using locatorType id
+10/05/23 09:18:47 PM Wednesday - BaseClass - INFO : WebElement found with locator value searchInput using locatorType id
+10/05/23 09:18:48 PM Wednesday - BaseClass - INFO : WebElement found with locator value searchLanguage using locatorType id
+10/05/23 09:18:48 PM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value searchLanguage using locatorType id
+10/05/23 09:18:48 PM Wednesday - BaseClass - INFO : WebElement found with locator value searchLanguage using locatorType id
+10/05/23 09:18:48 PM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value searchLanguage using locatorType id
+10/05/23 09:18:48 PM Wednesday - BaseClass - INFO : WebElement found with locator value #search-form > fieldset > button using locatorType css
+10/05/23 09:18:59 PM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value #search-form > fieldset > button using locatorType css
+10/05/23 09:18:59 PM Wednesday - BaseClass - INFO : WebElement found with locator value js-lang-list-button using locatorType id
+10/05/23 09:18:59 PM Wednesday - BaseClass - INFO : WebElement is Displayed on web page with locator value js-lang-list-button using locatorType id
+10/05/23 09:18:59 PM Wednesday - BaseClass - INFO : WebElement found with locator value js-lang-list-button using locatorType id
+10/05/23 09:18:59 PM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value js-lang-list-button using locatorType id
+10/05/23 09:18:59 PM Wednesday - BaseClass - INFO : WebElement found with locator value js-lang-list-button using locatorType id
+10/05/23 09:19:00 PM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value js-lang-list-button using locatorType id
+10/05/23 09:19:00 PM Wednesday - BaseClass - INFO : WebElement found with locator value #www-wikipedia-org > div.footer > div:nth-child(1) > div > div:nth-child(3) > a using locatorType css
+10/05/23 09:19:00 PM Wednesday - BaseClass - INFO : Scrolled to WebElement with locator value #www-wikipedia-org > div.footer > div:nth-child(1) > div > div:nth-child(3) > a using locatorType css
+10/05/23 09:19:00 PM Wednesday - BaseClass - INFO : WebElement found with locator value #www-wikipedia-org > div.footer > div:nth-child(1) > div > div:nth-child(3) > a using locatorType css
+10/05/23 09:19:00 PM Wednesday - BaseClass - INFO : WebElement is Displayed on web page with locator value #www-wikipedia-org > div.footer > div:nth-child(1) > div > div:nth-child(3) > a using locatorType css
+10/05/23 09:19:00 PM Wednesday - BaseClass - INFO : WebElement found with locator value #www-wikipedia-org > div.footer > div:nth-child(1) > div > div:nth-child(3) > a using locatorType css
+10/05/23 09:19:01 PM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value #www-wikipedia-org > div.footer > div:nth-child(1) > div > div:nth-child(3) > a using locatorType css
+10/05/23 09:19:04 PM Wednesday - BaseClass - INFO : New window was closed, now back to original window
+10/05/23 09:19:04 PM Wednesday - BaseClass - INFO : WebElement found with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(1) > a using locatorType css
+10/05/23 09:19:04 PM Wednesday - BaseClass - INFO : Scrolled to WebElement with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(1) > a using locatorType css
+10/05/23 09:19:04 PM Wednesday - BaseClass - INFO : WebElement found with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(1) > a using locatorType css
+10/05/23 09:19:04 PM Wednesday - BaseClass - INFO : WebElement is Displayed on web page with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(1) > a using locatorType css
+10/05/23 09:19:04 PM Wednesday - BaseClass - INFO : WebElement found with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(1) > a using locatorType css
+10/05/23 09:19:45 PM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(1) > a using locatorType css
+10/05/23 09:19:45 PM Wednesday - BaseClass - INFO : WebElement found with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(2) > a using locatorType css
+10/05/23 09:19:45 PM Wednesday - BaseClass - INFO : Scrolled to WebElement with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(2) > a using locatorType css
+10/05/23 09:19:45 PM Wednesday - BaseClass - INFO : WebElement found with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(2) > a using locatorType css
+10/05/23 09:19:45 PM Wednesday - BaseClass - INFO : WebElement is Displayed on web page with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(2) > a using locatorType css
+10/05/23 09:19:45 PM Wednesday - BaseClass - INFO : WebElement found with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(2) > a using locatorType css
+10/05/23 09:19:53 PM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(2) > a using locatorType css
+10/05/23 09:19:53 PM Wednesday - BaseClass - INFO : WebElement found with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(3) > a using locatorType css
+10/05/23 09:19:54 PM Wednesday - BaseClass - INFO : Scrolled to WebElement with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(3) > a using locatorType css
+10/05/23 09:19:54 PM Wednesday - BaseClass - INFO : WebElement found with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(3) > a using locatorType css
+10/05/23 09:19:54 PM Wednesday - BaseClass - INFO : WebElement is Displayed on web page with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(3) > a using locatorType css
+10/05/23 09:19:54 PM Wednesday - BaseClass - INFO : WebElement found with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(3) > a using locatorType css
+10/05/23 09:20:02 PM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(3) > a using locatorType css
+10/05/23 09:20:02 PM Wednesday - BaseClass - INFO : WebElement found with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(4) > a using locatorType css
+10/05/23 09:20:02 PM Wednesday - BaseClass - INFO : Scrolled to WebElement with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(4) > a using locatorType css
+10/05/23 09:20:02 PM Wednesday - BaseClass - INFO : WebElement found with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(4) > a using locatorType css
+10/05/23 09:20:02 PM Wednesday - BaseClass - INFO : WebElement is Displayed on web page with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(4) > a using locatorType css
+10/05/23 09:20:02 PM Wednesday - BaseClass - INFO : WebElement found with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(4) > a using locatorType css
+10/05/23 09:20:05 PM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(4) > a using locatorType css
+10/05/23 09:20:05 PM Wednesday - BaseClass - INFO : WebElement found with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(5) > a using locatorType css
+10/05/23 09:20:06 PM Wednesday - BaseClass - INFO : Scrolled to WebElement with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(5) > a using locatorType css
+10/05/23 09:20:06 PM Wednesday - BaseClass - INFO : WebElement found with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(5) > a using locatorType css
+10/05/23 09:20:06 PM Wednesday - BaseClass - INFO : WebElement is Displayed on web page with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(5) > a using locatorType css
+10/05/23 09:20:06 PM Wednesday - BaseClass - INFO : WebElement found with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(5) > a using locatorType css
+10/05/23 09:20:09 PM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(5) > a using locatorType css
+10/05/23 09:20:10 PM Wednesday - BaseClass - INFO : WebElement found with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(6) > a using locatorType css
+10/05/23 09:20:10 PM Wednesday - BaseClass - INFO : Scrolled to WebElement with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(6) > a using locatorType css
+10/05/23 09:20:10 PM Wednesday - BaseClass - INFO : WebElement found with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(6) > a using locatorType css
+10/05/23 09:20:10 PM Wednesday - BaseClass - INFO : WebElement is Displayed on web page with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(6) > a using locatorType css
+10/05/23 09:20:10 PM Wednesday - BaseClass - INFO : WebElement found with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(6) > a using locatorType css
+10/05/23 09:20:24 PM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(6) > a using locatorType css
+10/05/23 09:20:24 PM Wednesday - BaseClass - INFO : WebElement found with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(7) > a using locatorType css
+10/05/23 09:20:25 PM Wednesday - BaseClass - INFO : Scrolled to WebElement with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(7) > a using locatorType css
+10/05/23 09:20:25 PM Wednesday - BaseClass - INFO : WebElement found with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(7) > a using locatorType css
+10/05/23 09:20:25 PM Wednesday - BaseClass - INFO : WebElement is Displayed on web page with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(7) > a using locatorType css
+10/05/23 09:20:25 PM Wednesday - BaseClass - INFO : WebElement found with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(7) > a using locatorType css
+10/05/23 09:20:25 PM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(7) > a using locatorType css
+10/05/23 09:20:25 PM Wednesday - BaseClass - INFO : WebElement found with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(8) > a using locatorType css
+10/05/23 09:20:26 PM Wednesday - BaseClass - INFO : Scrolled to WebElement with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(8) > a using locatorType css
+10/05/23 09:20:26 PM Wednesday - BaseClass - INFO : WebElement found with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(8) > a using locatorType css
+10/05/23 09:20:26 PM Wednesday - BaseClass - INFO : WebElement is Displayed on web page with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(8) > a using locatorType css
+10/05/23 09:20:26 PM Wednesday - BaseClass - INFO : WebElement found with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(8) > a using locatorType css
+10/05/23 09:20:29 PM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(8) > a using locatorType css
+10/05/23 09:20:29 PM Wednesday - BaseClass - INFO : WebElement found with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(9) > a using locatorType css
+10/05/23 09:20:29 PM Wednesday - BaseClass - INFO : Scrolled to WebElement with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(9) > a using locatorType css
+10/05/23 09:20:29 PM Wednesday - BaseClass - INFO : WebElement found with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(9) > a using locatorType css
+10/05/23 09:20:29 PM Wednesday - BaseClass - INFO : WebElement is Displayed on web page with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(9) > a using locatorType css
+10/05/23 09:20:29 PM Wednesday - BaseClass - INFO : WebElement found with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(9) > a using locatorType css
+10/05/23 09:20:38 PM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(9) > a using locatorType css
+10/05/23 09:20:38 PM Wednesday - BaseClass - INFO : WebElement found with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(10) > a using locatorType css
+10/05/23 09:20:38 PM Wednesday - BaseClass - INFO : Scrolled to WebElement with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(10) > a using locatorType css
+10/05/23 09:20:38 PM Wednesday - BaseClass - INFO : WebElement found with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(10) > a using locatorType css
+10/05/23 09:20:38 PM Wednesday - BaseClass - INFO : WebElement is Displayed on web page with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(10) > a using locatorType css
+10/05/23 09:20:38 PM Wednesday - BaseClass - INFO : WebElement found with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(10) > a using locatorType css
+10/05/23 09:20:43 PM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(10) > a using locatorType css
+10/05/23 09:20:44 PM Wednesday - BaseClass - INFO : WebElement found with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(11) > a using locatorType css
+10/05/23 09:20:44 PM Wednesday - BaseClass - INFO : Scrolled to WebElement with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(11) > a using locatorType css
+10/05/23 09:20:44 PM Wednesday - BaseClass - INFO : WebElement found with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(11) > a using locatorType css
+10/05/23 09:20:44 PM Wednesday - BaseClass - INFO : WebElement is Displayed on web page with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(11) > a using locatorType css
+10/05/23 09:20:44 PM Wednesday - BaseClass - INFO : WebElement found with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(11) > a using locatorType css
+10/05/23 09:20:50 PM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(11) > a using locatorType css
+10/05/23 09:20:51 PM Wednesday - BaseClass - INFO : WebElement found with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(12) > a using locatorType css
+10/05/23 09:20:51 PM Wednesday - BaseClass - INFO : Scrolled to WebElement with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(12) > a using locatorType css
+10/05/23 09:20:51 PM Wednesday - BaseClass - INFO : WebElement found with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(12) > a using locatorType css
+10/05/23 09:20:51 PM Wednesday - BaseClass - INFO : WebElement is Displayed on web page with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(12) > a using locatorType css
+10/05/23 09:20:51 PM Wednesday - BaseClass - INFO : WebElement found with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(12) > a using locatorType css
+10/05/23 09:20:59 PM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value #www-wikipedia-org > div.footer > div.other-projects > div:nth-child(12) > a using locatorType css
+10/05/23 09:20:59 PM Wednesday - BaseClass - INFO : WebElement found with locator value #www-wikipedia-org > div.footer > div.footer-sidebar.app-badges > div > div > strong > a using locatorType css
+10/05/23 09:20:59 PM Wednesday - BaseClass - INFO : Scrolled to WebElement with locator value #www-wikipedia-org > div.footer > div.footer-sidebar.app-badges > div > div > strong > a using locatorType css
+10/05/23 09:20:59 PM Wednesday - BaseClass - INFO : WebElement found with locator value #www-wikipedia-org > div.footer > div.footer-sidebar.app-badges > div > div > strong > a using locatorType css
+10/05/23 09:20:59 PM Wednesday - BaseClass - INFO : WebElement is Displayed on web page with locator value #www-wikipedia-org > div.footer > div.footer-sidebar.app-badges > div > div > strong > a using locatorType css
+10/05/23 09:20:59 PM Wednesday - BaseClass - INFO : WebElement found with locator value #www-wikipedia-org > div.footer > div.footer-sidebar.app-badges > div > div > strong > a using locatorType css
+10/05/23 09:21:03 PM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value #www-wikipedia-org > div.footer > div.footer-sidebar.app-badges > div > div > strong > a using locatorType css
+10/05/23 09:21:04 PM Wednesday - BaseClass - INFO : WebElement found with locator value #www-wikipedia-org > div.footer > div.footer-sidebar.app-badges > div > div > ul > li.app-badge.app-badge-android > a > span using locatorType css
+10/05/23 09:21:04 PM Wednesday - BaseClass - INFO : Scrolled to WebElement with locator value #www-wikipedia-org > div.footer > div.footer-sidebar.app-badges > div > div > ul > li.app-badge.app-badge-android > a > span using locatorType css
+10/05/23 09:21:04 PM Wednesday - BaseClass - INFO : WebElement found with locator value #www-wikipedia-org > div.footer > div.footer-sidebar.app-badges > div > div > ul > li.app-badge.app-badge-android > a > span using locatorType css
+10/05/23 09:21:04 PM Wednesday - BaseClass - INFO : WebElement is Displayed on web page with locator value #www-wikipedia-org > div.footer > div.footer-sidebar.app-badges > div > div > ul > li.app-badge.app-badge-android > a > span using locatorType css
+10/05/23 09:21:04 PM Wednesday - BaseClass - INFO : WebElement found with locator value #www-wikipedia-org > div.footer > div.footer-sidebar.app-badges > div > div > ul > li.app-badge.app-badge-android > a > span using locatorType css
+10/05/23 09:21:04 PM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value #www-wikipedia-org > div.footer > div.footer-sidebar.app-badges > div > div > ul > li.app-badge.app-badge-android > a > span using locatorType css
+10/05/23 09:21:08 PM Wednesday - BaseClass - INFO : New window was closed, now back to original window
+10/05/23 09:21:08 PM Wednesday - BaseClass - INFO : WebElement found with locator value #www-wikipedia-org > div.footer > div.footer-sidebar.app-badges > div > div > ul > li.app-badge.app-badge-ios > a > span using locatorType css
+10/05/23 09:21:08 PM Wednesday - BaseClass - INFO : Scrolled to WebElement with locator value #www-wikipedia-org > div.footer > div.footer-sidebar.app-badges > div > div > ul > li.app-badge.app-badge-ios > a > span using locatorType css
+10/05/23 09:21:08 PM Wednesday - BaseClass - INFO : WebElement found with locator value #www-wikipedia-org > div.footer > div.footer-sidebar.app-badges > div > div > ul > li.app-badge.app-badge-ios > a > span using locatorType css
+10/05/23 09:21:08 PM Wednesday - BaseClass - INFO : WebElement is Displayed on web page with locator value #www-wikipedia-org > div.footer > div.footer-sidebar.app-badges > div > div > ul > li.app-badge.app-badge-ios > a > span using locatorType css
+10/05/23 09:21:08 PM Wednesday - BaseClass - INFO : WebElement found with locator value #www-wikipedia-org > div.footer > div.footer-sidebar.app-badges > div > div > ul > li.app-badge.app-badge-ios > a > span using locatorType css
+10/05/23 09:21:08 PM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value #www-wikipedia-org > div.footer > div.footer-sidebar.app-badges > div > div > ul > li.app-badge.app-badge-ios > a > span using locatorType css
+10/05/23 09:21:11 PM Wednesday - BaseClass - INFO : New window was closed, now back to original window
+10/05/23 09:21:11 PM Wednesday - BaseClass - INFO : WebElement found with locator value #www-wikipedia-org > p > small:nth-child(1) > a using locatorType css
+10/05/23 09:21:12 PM Wednesday - BaseClass - INFO : Scrolled to WebElement with locator value #www-wikipedia-org > p > small:nth-child(1) > a using locatorType css
+10/05/23 09:21:12 PM Wednesday - BaseClass - INFO : WebElement found with locator value #www-wikipedia-org > p > small:nth-child(1) > a using locatorType css
+10/05/23 09:21:12 PM Wednesday - BaseClass - INFO : WebElement is Displayed on web page with locator value #www-wikipedia-org > p > small:nth-child(1) > a using locatorType css
+10/05/23 09:21:12 PM Wednesday - BaseClass - INFO : WebElement found with locator value #www-wikipedia-org > p > small:nth-child(1) > a using locatorType css
+10/05/23 09:21:33 PM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value #www-wikipedia-org > p > small:nth-child(1) > a using locatorType css
+10/05/23 09:21:33 PM Wednesday - BaseClass - INFO : WebElement found with locator value #www-wikipedia-org > p > small:nth-child(2) > a using locatorType css
+10/05/23 09:21:33 PM Wednesday - BaseClass - INFO : Scrolled to WebElement with locator value #www-wikipedia-org > p > small:nth-child(2) > a using locatorType css
+10/05/23 09:21:33 PM Wednesday - BaseClass - INFO : WebElement found with locator value #www-wikipedia-org > p > small:nth-child(2) > a using locatorType css
+10/05/23 09:21:33 PM Wednesday - BaseClass - INFO : WebElement is Displayed on web page with locator value #www-wikipedia-org > p > small:nth-child(2) > a using locatorType css
+10/05/23 09:21:33 PM Wednesday - BaseClass - INFO : WebElement found with locator value #www-wikipedia-org > p > small:nth-child(2) > a using locatorType css
+10/05/23 09:21:48 PM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value #www-wikipedia-org > p > small:nth-child(2) > a using locatorType css
+10/05/23 09:21:48 PM Wednesday - BaseClass - INFO : WebElement found with locator value #www-wikipedia-org > p > small:nth-child(3) > a using locatorType css
+10/05/23 09:21:49 PM Wednesday - BaseClass - INFO : Scrolled to WebElement with locator value #www-wikipedia-org > p > small:nth-child(3) > a using locatorType css
+10/05/23 09:21:49 PM Wednesday - BaseClass - INFO : WebElement found with locator value #www-wikipedia-org > p > small:nth-child(3) > a using locatorType css
+10/05/23 09:21:49 PM Wednesday - BaseClass - INFO : WebElement is Displayed on web page with locator value #www-wikipedia-org > p > small:nth-child(3) > a using locatorType css
+10/05/23 09:21:49 PM Wednesday - BaseClass - INFO : WebElement found with locator value #www-wikipedia-org > p > small:nth-child(3) > a using locatorType css
+10/05/23 09:21:58 PM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value #www-wikipedia-org > p > small:nth-child(3) > a using locatorType css

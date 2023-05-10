@@ -10,7 +10,7 @@ class LandingPageClass(BaseClass):
         super().__init__(driver)
         self.driver = driver
 
-    with open("C:/Users/HAKEEM/PycharmProjects/WIKIPEDIA/WIKIFramework/pages/elements.json", "r") as infile:
+    with open("../pages/elements.json", "r") as infile:
         elements = json.load(infile)
 
     def languages(self):
